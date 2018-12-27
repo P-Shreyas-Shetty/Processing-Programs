@@ -1,7 +1,6 @@
 /*
   Visualizing Fourier series coefficients using circles.
-  Based on code demonstrated in 'Coding Train' Youtube channel(which in turn was inspired by
-  video on Youtube channel 'Smarter Every Day'
+  Based on code demonstrated in 'Coding Train' Youtube channel
 */
 float t = 0;
 float dt = 0.01; //timestep
